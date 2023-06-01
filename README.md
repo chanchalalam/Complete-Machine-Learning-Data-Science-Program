@@ -1,25 +1,25 @@
 # Complete-Machine-Learning-Data-Science-Program
-Complete Machine Learning &amp; Data Science Program BY GeekforGeeks
+##Complete Machine Learning &amp; Data Science Program BY GeekforGeeks
 
-What you will learn
+What You Will Learn
 
 
 
-Data Analysis with Python
+1.Data Analysis with Python
 
-Working with different types of Dataset
+2.Working with different types of Dataset
 
-DIY Datasets with Web Scraping
+3.DIY Datasets with Web Scraping
 
-Dashboards with Tableau
+4.Dashboards with Tableau
 
-Building ML Models from Scratch
+5.Building ML Models from Scratch
 
-NLP with NLTK 
+6.NLP with NLTK 
 
-Neural Networks with Tensorflow
+7.Neural Networks with Tensorflow
 
-Working with Images with OpenCV
+8.Working with Images with OpenCV
 
-Capstone Projects with Industry Experts
+9.Capstone Projects with Industry Experts
 
